@@ -8,8 +8,8 @@ Competition: Playground Series S6E4 — Predicting Irrigation Need
 
 ## Notebook Links
 
-- **LightGBM:** [Link to Kaggle notebook]
-- **CatBoost:** [Link to Kaggle notebook]
+- **LightGBM:** [[Link to Kaggle notebook]](https://github.com/lichris210/kagglecomps/blob/main/notebooks/04_lightgbm.ipynb)
+- **CatBoost:** [[Link to Kaggle notebook]](https://github.com/lichris210/kagglecomps/blob/main/notebooks/05_catboost.ipynb)
 
 ---
 
